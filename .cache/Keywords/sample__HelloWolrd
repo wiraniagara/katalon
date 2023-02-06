@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "52B08C12A2EC45DF957755C63410142D",
+  "keywordClasses": [
+    {
+      "name": "sample.HelloWolrd",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
